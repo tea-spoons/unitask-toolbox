@@ -1,0 +1,29 @@
+{
+    "name": "TeaSpoons.UniTaskToolbox",
+    "rootNamespace": "TeaSpoons.UniTaskToolbox",
+    "references": [
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITASK"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "2.5",
+            "define": "UNITASK"
+        },
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "2.5",
+            "define": "UNITASK"
+        }
+    ],
+    "noEngineReferences": false
+}

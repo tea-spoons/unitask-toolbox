@@ -1,0 +1,19 @@
+{
+  "name": "com.tea-spoons.unitask-toolbox",
+  "version": "0.10.5",
+  "displayName": "UniTask Toolbox",
+  "description": "Useful tools for when using UniTask.",
+  "unity": "2020.2",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.0"
+  },
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/unitask-toolbox#readme",
+  "licensesUrl": "https://github.com/tea-spoons/unitask-toolbox/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/tea-spoons/unitask-toolbox/blob/main/CHANGELOG.md"
+}
