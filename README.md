@@ -82,13 +82,21 @@ In Unity: **Window > Package Manager > + > Add package from git URL**, then ente
 https://github.com/tea-spoons/unitask-toolbox.git
 ```
 
-Pin a release by appending a tag, for example `#v0.10.5`.
+Pin a release by appending a tag, for example `#v0.11.0`.
 
 ### Dependencies
 
 Unity cannot resolve git dependencies automatically, so add these to your project first:
 
 - `com.cysharp.unitask` 2.5.0
+
+## Optional packages
+
+This package works on its own. It uses the packages below when your project has them (Unity detects them automatically) and simply leaves the related code out when it does not.
+
+| Package | Used for |
+|---|---|
+| UniTask (`com.cysharp.unitask` 2.5.0+) | The whole package. Without it nothing is compiled. |
 
 ## Change plan
 

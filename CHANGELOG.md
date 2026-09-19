@@ -1,3 +1,7 @@
+## [0.11.0]
+
+- Made standalone: no longer declares UniTask as a dependency. Without UniTask installed the package compiles to nothing (its tests too).
+
 ## [0.10.0] - 2025-11-19
 - Added AsyncProcess
 

@@ -12,10 +12,11 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 - Internal build, registry and tracker references were removed; the repo uses GitHub Actions (`CI` and `Release`) built on `unity-ci-kit`.
 - Added `LICENSE.md` (PolyForm Noncommercial 1.0.0), an install section in the README, and package metadata (author, license and documentation URLs).
 - Depends on the public UniTask package (`com.cysharp.unitask`) instead of an internal copy.
+- Made standalone: no longer declares UniTask as a dependency. Without UniTask installed the package compiles to nothing (its tests too).
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.10.5` with the Release workflow.
+- [ ] Tag and publish `v0.11.0` with the Release workflow.
 - [ ] Run this package's tests in CI with `unity-ci-kit` (needs a small test-project helper in the kit).
 
 ## Notes and ideas

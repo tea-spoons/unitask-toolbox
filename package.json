@@ -1,12 +1,9 @@
 {
   "name": "com.tea-spoons.unitask-toolbox",
-  "version": "0.10.5",
+  "version": "0.11.0",
   "displayName": "UniTask Toolbox",
   "description": "Useful tools for when using UniTask.",
   "unity": "2020.2",
-  "dependencies": {
-    "com.cysharp.unitask": "2.5.0"
-  },
   "author": {
     "name": "Muhammad Tarek Abdou",
     "email": "muhammadtarekabdou@gmail.com",
