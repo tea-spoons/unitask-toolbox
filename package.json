@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.unitask-toolbox",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "displayName": "UniTask Toolbox",
   "description": "Useful tools for when using UniTask.",
   "unity": "2020.2",

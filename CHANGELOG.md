@@ -1,3 +1,7 @@
+## [0.11.1]
+
+- No code changes. Independent development continues from this release, outside of Bigpoint; 0.11.0 was the last version developed there.
+
 ## [0.11.0]
 
 - Made standalone: no longer declares UniTask as a dependency. Without UniTask installed the package compiles to nothing (its tests too).
